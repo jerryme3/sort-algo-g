@@ -1,0 +1,17 @@
+﻿## Build outputs
+bin/
+obj/
+
+## JetBrains Rider / IDE files
+.idea/
+*.sln.iml
+
+## User-specific settings & OS files
+*.user
+*.userosscache
+*.suo
+.vs/
+[Dd]ebug/
+[Rr]elease/
+.DS_Store
+Thumbs.db
