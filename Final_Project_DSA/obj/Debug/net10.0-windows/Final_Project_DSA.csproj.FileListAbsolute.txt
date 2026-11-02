@@ -1,0 +1,14 @@
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\bin\Debug\net10.0-windows\Final_Project_DSA.exe
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\bin\Debug\net10.0-windows\Final_Project_DSA.deps.json
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\bin\Debug\net10.0-windows\Final_Project_DSA.runtimeconfig.json
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\bin\Debug\net10.0-windows\Final_Project_DSA.dll
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\bin\Debug\net10.0-windows\Final_Project_DSA.pdb
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\obj\Debug\net10.0-windows\Final_Project_DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\obj\Debug\net10.0-windows\Final_Project_DSA.AssemblyInfoInputs.cache
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\obj\Debug\net10.0-windows\Final_Project_DSA.AssemblyInfo.cs
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\obj\Debug\net10.0-windows\Final_Project_DSA.csproj.CoreCompileInputs.cache
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\obj\Debug\net10.0-windows\Final_Project_DSA.dll
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\obj\Debug\net10.0-windows\refint\Final_Project_DSA.dll
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\obj\Debug\net10.0-windows\Final_Project_DSA.pdb
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\obj\Debug\net10.0-windows\Final_Project_DSA.genruntimeconfig.cache
+C:\Users\Jerryme\RiderProjects\FInal_Project_DSA\Final_Project_DSA\obj\Debug\net10.0-windows\ref\Final_Project_DSA.dll
